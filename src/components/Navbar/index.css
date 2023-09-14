@@ -1,0 +1,13 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.navbar button {
+    border-radius: 6px;
+    border: none;
+    padding: 3px;
+    background-color: white;
+    cursor: pointer;
+}
